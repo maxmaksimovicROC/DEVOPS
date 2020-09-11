@@ -1,0 +1,7 @@
+5 interface-onderdelen
+     1. activity bar 
+     2. editor groups
+     3. sidebar
+     4. status bar
+     5. panel
+     
